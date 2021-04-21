@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X7 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="10.8372mm" height="7.2812mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 1084 728"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <font id="FontID0" horiz-adv-x="681" font-variant="normal" style="fill-rule:nonzero" font-weight="900">
+	<font-face 
+		font-family="Roboto Black">
+	</font-face>
+   <missing-glyph><path d="M0 0z"/></missing-glyph>
+   <glyph unicode="&gt;" horiz-adv-x="512"><path d="M319.837 299.505l-265.672 90.1622 0 149.329 429.175 -175.658 0 -129.669 -429.175 -175.672 0 149.342 265.672 92.1658z"/></glyph>
+   <glyph unicode="/" horiz-adv-x="350"><path d="M102.507 -60.9956l-116.68 0 242.678 771.993 117.164 0 -243.162 -771.993z"/></glyph>
+   <glyph unicode="&lt;" horiz-adv-x="509"><path d="M186.994 297.502l267.179 -89.6646 0 -149.84 -431.676 175.672 0 129.669 431.676 175.658 0 -149.329 -267.179 -92.1658z"/></glyph>
+  </font>
+  <style type="text/css">
+   <![CDATA[
+    @font-face { font-family:"Roboto Black";src:url("#FontID0") format(svg)}
+    .fil0 {fill:#96989A}
+    .fil1 {fill:red}
+    .fnt0 {font-weight:900;font-size:743.66px;font-family:'Roboto Black'}
+   ]]>
+  </style>
+ </defs>
+ <g id="Camada_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <text x="39" y="586"  class="fil0 fnt0">&lt;</text>
+  <text x="669" y="586"  class="fil0 fnt0">&gt;</text>
+  <text x="417" y="606"  class="fil1 fnt0">/</text>
+ </g>
+</svg>
