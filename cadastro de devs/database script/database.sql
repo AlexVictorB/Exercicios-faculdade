@@ -1,0 +1,15 @@
+CREATE DATABASE devs_db
+DEFAULT CHARSET=utf8mb4
+DEFAULT COLLATE = utf8mb4_general_ci;
+
+USE devs_db;
+
+CREATE TABLE IF NOT EXISTS users(
+	id_user INT NOT NULL AUTO_INCREMENT PRIMARY KEY,
+    nome VARCHAR(50) NOT NULL,
+    email VARCHAR(50) NOT NULL,
+    tecnologias VARCHAR(100) NOT NULL,
+    descricao VARCHAR(300) NOT NULL   
+)ENGINE=InnoDB;
+
+
