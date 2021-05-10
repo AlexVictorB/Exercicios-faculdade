@@ -1,0 +1,103 @@
+/*Estrutura*/
+
+body {
+    margin: 0px;
+}
+
+.conteiner {
+    background: #187794;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center
+}
+
+.box {
+    width: 50%;
+    height: 580px;
+    background: #E5E2DF;
+    border-radius: 10px;
+    box-shadow: 0 0 0.5em black;
+
+    align-items: center;
+    text-align: center;
+
+
+}
+
+
+
+/* Texto */
+h1 {
+    color: #944E09
+}
+
+.enter-text {
+    width: 350px;
+    border-radius: 5px;
+    border-style: solid;
+}
+
+label {
+    font-family: 'Roboto', sans-serif;
+    font-size: large;
+    font-weight: 600;
+    color: #3AB9E0;
+}
+
+.description {
+    font-family: 'Roboto', sans-serif;
+    font-size: 80%;
+    font-weight: 300;
+    color: rgb(94, 94, 94);
+    display: block;
+}
+
+
+.checkbox-display{
+
+    display: flex;
+    justify-content: center;
+    align-content: space-between;
+    color: #5CD9FF;
+
+}
+
+.checkbox {
+    padding: 0.2rem 0.8rem 0.2rem 0rem;
+}
+
+.checkbox label {
+    font-size: medium;
+    color: #5CD9FF;
+}
+
+
+#message {
+    width: 350px;
+    min-height: 100px;
+    max-height: 100px;
+}
+
+
+
+/* botão */
+
+.btn_send {
+    margin-top: 1rem;
+    font-family: 'Roboto', sans-serif;
+    padding: 0.5rem 3rem;
+    color: #944E09;
+    font-weight: bold;
+    border-style: solid;
+    border-radius: 5px;
+}
+
+.btn_send:hover{
+    background: #797877;
+    color: #e97b0d;
+}
+
+
